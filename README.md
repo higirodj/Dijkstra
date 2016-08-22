@@ -1,5 +1,5 @@
 # Dijkstra
-I. Dijkstra’s algorithm implementation in python, dated: 11/13/2015 
+I. Dijkstra’s algorithm implementation in python.
 
 II. File list: dijkstra.py
 
