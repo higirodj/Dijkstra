@@ -13,11 +13,11 @@ III. Command line arguments in order to run the dijkstra implementation:
 
 IV:  Instructions for building a graph
 	
-	The program utilizes an adjacency matrix to represent the input graph and an 	example graph is provided with the implementation in the text file named  		graph. The graph is similar to the one that is presented below. Each value in 	the below 5 x 5 Matrix[i][j] represents the presence of absence of an edge 		between i,j. A value of zero indicates that an edge doesn’t exits. 
+	The program utilizes an adjacency matrix to represent the input graph and an example graph is provided with the implementation in the text file named graph. The graph is similar to the one that is presented below. Each value in the below 5 x 5 Matrix[i][j] represents the presence of absence of an edge between i,j. A value of zero indicates that an edge doesn’t exits. 
 	M[i][j] = 0, where i = j. 
 
 	To create a graph for the program:
-	1. In the text file titled graph, build a nxn square matrix. See below and in 	   the provided text file for an example matrix.  
+	1. In the text file titled graph, build a nxn square matrix. See below and in the provided text file for an example matrix.  
 	2. The values should be non-negative real numbers.
 	3. Matrix[i][j] = 0, where i = j.
 	4. Ensure the values are tab delimited.
